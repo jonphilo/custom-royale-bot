@@ -1,0 +1,11 @@
+{
+  "name": "custom-royale-bot",
+  "version": "1.0.0",
+  "description": "A bot to supply custom games",
+  "main": "bot.js",
+  "author": "Jonathan Philo",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "request": "^2.83.0"
+  }
+}
